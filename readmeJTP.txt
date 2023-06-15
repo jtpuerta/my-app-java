@@ -25,7 +25,7 @@ Sources d'info:
     - https://maven.apache.org/plugins/maven-shade-plugin/index.html
     
     # Add the shade plugin to package the dependecies in the jar  (see source)
-    ==> ne marche ps
+    ==> ne marche pas
     
     4.2/ Source:
     - https://www.jmdoudoux.fr/java/dej/chap-maven.htm#maven-3
