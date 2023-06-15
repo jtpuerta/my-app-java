@@ -1,8 +1,8 @@
-# Compiled class file
-*.class
-
 # target maven files
-/target/*
+/target
+
+# Compiled class file   (normalement inutile du fait de ci-dessus)
+*.class
 
 # Log file
 *.log
